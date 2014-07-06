@@ -58,6 +58,7 @@ HONEYPOT_CHANNELS = {
         'dionaea.caputres',
         'dionaea.connections'
     ],
+    'amun': ['amun.events'],
     'conpot': ['conpot.events'],
     'snort': ['snort.alerts'],
     'kippo': ['kippo.sessions'],
